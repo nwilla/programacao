@@ -1,13 +1,10 @@
 <!DOCTYPE html> 
 <html lang="pt-br">
-<head> 
-<title>Nathan William Alexandre</title> 
+<head>  
 </head>
 <body>
-
 <img src="imagemcurri.jpg" alt"Eu" width="412"
 height="549">
-
 <h1>Nathan William Alexandre</h1>
 
 <p>Brasileiro, solteiro, nascido em 01/01/2000
