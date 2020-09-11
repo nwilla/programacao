@@ -1,12 +1,11 @@
 <!DOCTYPE html> 
 <html lang="pt-br">
 <head> 
-<title></title> 
 </head>
 <body>
 
 <img src="imagemcurri.jpg" alt"Eu" width="412"
-height="549">>>
+height="549">
 
 <h1>Nathan William Alexandre</h1>
 
