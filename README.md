@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<img src="imagemcurri.jpg" alt"Eu" width="412"
+<img src=imagemcurri.jpg alt"Eu" width="412"
 height="549">
 
 <h1>Nathan William Alexandre</h1>
@@ -35,9 +35,8 @@ height="549">
     <li>Canva</li>
     <li>DaVinci Resolve</li>
     <li>Fotografia</li>
+    
 
-    <p>https://www.behance.net/nwilla/</p>
-    <p>https://www.instagram.com/nwill.a/</p>
 
 </ul>
  
