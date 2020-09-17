@@ -1,6 +1,7 @@
 <!DOCTYPE html> 
 <html lang="pt-br">
 <head> 
+<title>Nathan William Alexandre</title> 
 </head>
 <body>
 
@@ -34,7 +35,7 @@ height="549">
     <li>Canva</li>
     <li>DaVinci Resolve</li>
     <li>Fotografia</li>
-<p><a href="https://www.behance.net/nwilla/"></a></p>    
+<p><a href="https://www.behance.net/nwilla/">Behance nathan</a></p>    
 
 
 </ul>
