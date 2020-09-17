@@ -35,8 +35,8 @@ height="549">
     <li>Canva</li>
     <li>DaVinci Resolve</li>
     <li>Fotografia</li>
-<p><a href="https://www.behance.net/nwilla/">Behance nathan</a></p>    
-
+<p><a href="https://www.behance.net/nwilla/">Behance</a></p>    
+<p><a href="https://www.instagram.com/nwill.a/">Instagram</a></p>  
 
 </ul>
  
